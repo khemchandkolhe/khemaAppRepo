@@ -5,6 +5,8 @@ syso("stash=1");
 
 
 
+syso("stash==2");
+
 
 
 syso("stash==3");
