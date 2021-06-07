@@ -4,7 +4,11 @@ ds
 s
 f
 sdf
+<<<<<<< Updated upstream
 
 
 
 syso("ies-134");
+=======
+syso("khemchand");
+>>>>>>> Stashed changes
