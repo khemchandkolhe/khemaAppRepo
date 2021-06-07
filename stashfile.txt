@@ -1,6 +1,7 @@
 
 
 syso("khemchand");
+syso("stash=1");
 
 
 
