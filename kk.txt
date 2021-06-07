@@ -5,10 +5,14 @@ s
 f
 sdf
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 
 syso("ies-134");
+=======
+syso("khemchand");
+>>>>>>> Stashed changes
 =======
 syso("khemchand");
 >>>>>>> Stashed changes
